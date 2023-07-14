@@ -1,16 +1,24 @@
-### Hi there 👋
+##  Oi meu nome é Gabriel Barreto, sou desenvolvedor front-end.
+<div align="center"> 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cyacer&theme=prussian&show_icons=true"/>
+ <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyacer&theme=prussian&layout=compact"/>
+</div>
+ 
+ ##
+ 
+<div align="center">
+  <div style="display: inline_block">
+    <img align="left" height="250" alt="coding-time" src="coding.gif">
+    <h1 align="center"> Minhas tecnologias <3 </h1>
+    <img align="center" alt="Cyan-Js" height="40"idth="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Cyan-React" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+    <img align="center" alt="Cyan-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Cyan-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt"Cyab-Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Cyan-mysql height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </div>
+</div>
+  
+##
 
-<!--
-**Cyacer/Cyacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
