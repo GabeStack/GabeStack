@@ -1,4 +1,6 @@
-##  Oi meu nome é Gabriel Barreto, sou desenvolvedor front-end.
+<div align="center"> 
+ <img src="./src/img/github.gif" />
+ </div>
 <div align="center"> 
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cyacer&theme=prussian&show_icons=true"/>
  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyacer&theme=prussian&layout=compact"/>
