@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>
-   <img src="./src/img/github.gif" />
+   <img src="./src/img/github-hello.png" />
   </h1>
  </div>
  <div>
