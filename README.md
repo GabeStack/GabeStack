@@ -4,11 +4,13 @@
   </h1>
  </div>
  
- <div align="center">
-   <h1>Sobre</h1>
+ <div align="left">
+   <h1 align="center">Sobre</h1>
    <h3>
-     Sou apaixonado pelas possibilidades que a tecnologia oferece para criar novos caminhos e mudar vidas. Esse foi o principal motivo que me fez seguir a carreira de desenvolvimento de software.
-
+     Sou apaixonado pelas possibilidades que a tecnologia oferece para criar novos caminhos e mudar vidas.
+     <br>
+     Esse foi o principal motivo que me fez seguir a carreira de desenvolvimento de software.
+<br>
 Desenvolvedor de software Back-end e já acumulei experiência em diversos projetos utilizando tecnologias como <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /> e <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />.
 <br>
 Além disso, também tenho conhecimento em Front-end, trabalhando com <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> e <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />. 
