@@ -20,8 +20,8 @@ No momento, estou estudando <img src="https://img.shields.io/badge/vuejs-%233549
 </h3>
  </div>
  <div align="center"> 
-  <img  height="230"  src="https://github-readme-stats.vercel.app/api?username=Cyacer&theme=prussian&show_icons=true"/>
-  <img  height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyacer&theme=prussian"/>
+  <img  height="230"  src="https://github-readme-stats.vercel.app/api?username=GabeStack&theme=prussian&show_icons=true"/>
+  <img  height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeStack&theme=prussian"/>
  </div>
   <br>
   <div align="center">
