@@ -2,7 +2,7 @@
  </div>
  <div align="center"> 
   <img  height="230"  src="https://github-readme-stats.vercel.app/api?username=GabeStack&theme=prussian&show_icons=true"/>
-  <img  height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeStack&theme=prussian"/>
+  <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeStack&theme=prussian"/>
  </div>
   <br>
   <div align="center">
